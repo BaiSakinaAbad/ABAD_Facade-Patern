@@ -23,3 +23,6 @@ Class Definitions:
     FrontDesk: The facade class that coordinates interactions between the client (HotelApp) and the individual hotel services.
 
     HotelApp: The client class that uses the FrontDesk facade to access and utilize hotel services seamlessly.
+
+UML CLASS DIAGRAM:
+![Facade Uml](FCD_UML.png)
